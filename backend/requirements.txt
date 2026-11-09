@@ -1,0 +1,11 @@
+"""
+HugzUp Backend - API Principal
+
+Stack: Python + FastAPI (o Flask)
+"""
+
+# Dependencias para requirements.txt
+flask==2.3.0  # O fastapi==0.95.0
+python-dotenv==1.0.0
+sqlalchemy==2.0.0
+psycopg2-binary==2.9.0
